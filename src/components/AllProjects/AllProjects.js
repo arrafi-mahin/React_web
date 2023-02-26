@@ -10,7 +10,7 @@ class AllProjects extends Component {
                     <Row>
                         <Col lg={4} md={6} sm={12}>
                             <Card className="text-center projectCard" >
-                                <Card.Img  variant="top" src="https://source.unsplash.com/random/350×250" />
+                                <Card.Img className='img-fluid' variant="top" src="https://source.unsplash.com/random/350×250" />
                                 <Card.Body>
                                     <Card.Title className="projectCardTitle">Card Title</Card.Title>
                                     <Card.Text className="projectCardDes">
@@ -36,7 +36,7 @@ class AllProjects extends Component {
                         </Col>
                         <Col lg={4} md={6} sm={12}>
                             <Card className="text-center projectCard" >
-                                <Card.Img  variant="top" src="https://source.unsplash.com/random/350×250" />
+                                <Card.Img className='img-fluid' variant="top" src="https://source.unsplash.com/random/350×250" />
                                 <Card.Body>
                                     <Card.Title className="projectCardTitle">Card Title</Card.Title>
                                     <Card.Text className="projectCardDes">
@@ -49,7 +49,7 @@ class AllProjects extends Component {
                         </Col>
                         <Col lg={4} md={6} sm={12}>
                             <Card className="text-center projectCard" >
-                                <Card.Img  variant="top" src="https://source.unsplash.com/random/350×250" />
+                                <Card.Img className='img-fluid' variant="top" src="https://source.unsplash.com/random/350×250" />
                                 <Card.Body>
                                     <Card.Title className="projectCardTitle">Card Title</Card.Title>
                                     <Card.Text className="projectCardDes">
@@ -62,7 +62,7 @@ class AllProjects extends Component {
                         </Col>
                         <Col lg={4} md={6} sm={12}>
                             <Card className="text-center projectCard" >
-                                <Card.Img  variant="top" src="https://source.unsplash.com/random/350×250" />
+                                <Card.Img className='img-fluid' variant="top" src="https://source.unsplash.com/random/350×250" />
                                 <Card.Body>
                                     <Card.Title className="projectCardTitle">Card Title</Card.Title>
                                     <Card.Text className="projectCardDes">
